@@ -1,0 +1,3 @@
+Forest Tileset: 16x16 pixel-art tiles with animated water, trees, rocks and a dirt path, plus a ready-to-use collision map.
+Every tile is indexed and named in manifest.json - paste the sheet into any engine and use the map as-is.
+MIT licensed and generated deterministically by the Game Asset Factory; re-roll with a new seed anytime.

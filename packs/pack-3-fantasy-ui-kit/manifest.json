@@ -1,0 +1,22 @@
+{
+  "product": "GD-L3 Game Asset Factory",
+  "pipeline_version": "1.0.0",
+  "pack_id": "pack-3-fantasy-ui-kit",
+  "title": "Fantasy UI Kit",
+  "license": "MIT",
+  "generated_by": "procedural generators (seeded); no AI, no API calls, no network",
+  "seed": 9001,
+  "tile_size": 16,
+  "notes": [
+    "ui.png: 4 columns x 6 rows. Buttons (3 states), frame, 9-slice panel pieces, 11 icons.",
+    "9-slice: 2px border; corners are 16x16, edges stretch, center tiles (see manifest nine_slice).",
+    "preview.png shows an assembled panel + buttons + icons at 4x scale."
+  ],
+  "regenerate": "python -m pipeline packs --pack 3",
+  "contents": {
+    "itch-listing.txt": 286,
+    "preview.png": 4236,
+    "assets/ui.png": 1621,
+    "assets/ui_index.json": 3590
+  }
+}

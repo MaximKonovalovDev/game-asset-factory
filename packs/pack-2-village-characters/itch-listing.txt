@@ -1,0 +1,3 @@
+Village Characters: four 16x16 pixel characters (knight, villager, wizard, merchant) with 4-frame walk cycles in all four directions.
+One cleanly indexed spritesheet - 64 frames total, every cell mapped in the manifest.
+MIT licensed, procedurally generated with deterministic seeds, and ready for any engine.

@@ -1,0 +1,56 @@
+{
+  "slug": "game-asset-factory",
+  "name": "Game Asset Factory",
+  "tagline": "AI-produced 16x16 pixel-art tilesets, character and UI packs for itch.io and Unity - a factory, not a single pack",
+  "description": "An AI asset-production pipeline (procedural generators + AI art pass) producing themed pixel-art packs: tilesets, character packs, UI kits, spritesheets. Sold one-time $5-29/pack on itch.io (LimeZu proves demand: top shelf, $0-5 PWYW norm, flagship packs to $150) and Unity Asset Store Generative AI category. Factory margins: generate N packs from one pipeline.",
+  "stage": "pre_launch",
+  "niche": "gamedev",
+  "price": 9,
+  "urls": {
+    "site": "",
+    "github": "",
+    "docs": "",
+    "demo": ""
+  },
+  "keywords": [
+    "pixel art tileset",
+    "game asset pack",
+    "16x16 tileset",
+    "sprite pack",
+    "game ui kit",
+    "godot asset pack"
+  ],
+  "platforms": {
+    "marketplaces": [
+      "itch.io",
+      "Unity Asset Store"
+    ],
+    "reddit": {
+      "subreddits": [
+        "PixelArt",
+        "godot",
+        "Unity2D",
+        "gameassets",
+        "indiegames"
+      ],
+      "max_posts_per_week": 3
+    }
+  },
+  "personas": [
+    "helpful_indie",
+    "visual_storyteller"
+  ],
+  "voice": {
+    "tone": "maker sharing work, generous, concrete",
+    "rules": [
+      "show the pack, show the game use case",
+      "free sample assets + paid pack upsell",
+      "no fake scarcity"
+    ]
+  },
+  "launch_date": null,
+  "notes": "Lane GD-L3, sequential after GD-L1/L2 gates. Seeds: Tile-Crawler (1* MIT active), TilesetViewer (0*), ZzSprite (166* MIT, procedural sprites). Demand: autocomplete 5/5 >=10 (godot asset pack, pixel art pack, tileset pack...). Mine sheet: data/research/game-dev-mine-sheet.json rank 3 (score 78). CodeCanyon structurally closed to art assets - sell on itch + Unity only.",
+  "direction": "d1",
+  "direction_name": "ai-gamedev-tools",
+  "tier": "core"
+}

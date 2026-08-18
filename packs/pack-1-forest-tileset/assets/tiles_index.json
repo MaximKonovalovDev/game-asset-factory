@@ -1,0 +1,135 @@
+{
+  "theme": "grass",
+  "tile_size": 16,
+  "sheet": "tiles.png",
+  "collision_per_tile": {
+    "grass": 0,
+    "grass_tuft": 0,
+    "grass_flower": 0,
+    "dirt": 0,
+    "dirt_pebbles": 0,
+    "path": 0,
+    "tree": 1,
+    "rock": 1,
+    "bush": 1,
+    "water_0": 1,
+    "water_1": 1,
+    "water_2": 1,
+    "water_3": 1,
+    "bridge": 0
+  },
+  "tiles": {
+    "grass": {
+      "col": 0,
+      "row": 0,
+      "x": 0,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "grass_tuft": {
+      "col": 1,
+      "row": 0,
+      "x": 16,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "grass_flower": {
+      "col": 2,
+      "row": 0,
+      "x": 32,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "dirt": {
+      "col": 3,
+      "row": 0,
+      "x": 48,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "dirt_pebbles": {
+      "col": 4,
+      "row": 0,
+      "x": 64,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "path": {
+      "col": 5,
+      "row": 0,
+      "x": 80,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "tree": {
+      "col": 6,
+      "row": 0,
+      "x": 96,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "rock": {
+      "col": 0,
+      "row": 1,
+      "x": 0,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    },
+    "bush": {
+      "col": 1,
+      "row": 1,
+      "x": 16,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    },
+    "water_0": {
+      "col": 2,
+      "row": 1,
+      "x": 32,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    },
+    "water_1": {
+      "col": 3,
+      "row": 1,
+      "x": 48,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    },
+    "water_2": {
+      "col": 4,
+      "row": 1,
+      "x": 64,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    },
+    "water_3": {
+      "col": 5,
+      "row": 1,
+      "x": 80,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    },
+    "bridge": {
+      "col": 6,
+      "row": 1,
+      "x": 96,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    }
+  }
+}

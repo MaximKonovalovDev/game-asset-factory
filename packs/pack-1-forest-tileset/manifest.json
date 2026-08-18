@@ -1,0 +1,24 @@
+{
+  "product": "GD-L3 Game Asset Factory",
+  "pipeline_version": "1.0.0",
+  "pack_id": "pack-1-forest-tileset",
+  "title": "Forest Tileset",
+  "license": "MIT",
+  "generated_by": "procedural generators (seeded); no AI, no API calls, no network",
+  "seed": 42,
+  "tile_size": 16,
+  "notes": [
+    "Animated water is 4 frames (water_0..water_3); cycle at ~6 fps.",
+    "collision_map.json: 16x12 grid, 0 = walkable, 1 = solid.",
+    "tiles.png: 7 columns per row; tiles_index.json maps every tile."
+  ],
+  "regenerate": "python -m pipeline packs --pack 1",
+  "contents": {
+    "itch-listing.txt": 338,
+    "preview.png": 581,
+    "assets/collision_map.json": 2199,
+    "assets/scene.png": 5172,
+    "assets/tiles.png": 2134,
+    "assets/tiles_index.json": 2089
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "tile_size": 16,
+  "sheet": "ui.png",
+  "elements": {
+    "button_normal": {
+      "col": 0,
+      "row": 0,
+      "x": 0,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "button_hover": {
+      "col": 1,
+      "row": 0,
+      "x": 16,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "button_pressed": {
+      "col": 2,
+      "row": 0,
+      "x": 32,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "frame": {
+      "col": 3,
+      "row": 0,
+      "x": 48,
+      "y": 0,
+      "w": 16,
+      "h": 16
+    },
+    "panel_corner_tl": {
+      "col": 0,
+      "row": 1,
+      "x": 0,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    },
+    "panel_corner_tr": {
+      "col": 1,
+      "row": 1,
+      "x": 16,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    },
+    "panel_corner_bl": {
+      "col": 2,
+      "row": 1,
+      "x": 32,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    },
+    "panel_corner_br": {
+      "col": 3,
+      "row": 1,
+      "x": 48,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    },
+    "panel_edge_top": {
+      "col": 0,
+      "row": 2,
+      "x": 0,
+      "y": 32,
+      "w": 16,
+      "h": 16
+    },
+    "panel_edge_bottom": {
+      "col": 1,
+      "row": 2,
+      "x": 16,
+      "y": 32,
+      "w": 16,
+      "h": 16
+    },
+    "panel_edge_left": {
+      "col": 2,
+      "row": 2,
+      "x": 32,
+      "y": 32,
+      "w": 16,
+      "h": 16
+    },
+    "panel_edge_right": {
+      "col": 3,
+      "row": 2,
+      "x": 48,
+      "y": 32,
+      "w": 16,
+      "h": 16
+    },
+    "panel_center": {
+      "col": 0,
+      "row": 3,
+      "x": 0,
+      "y": 48,
+      "w": 16,
+      "h": 16
+    },
+    "icon_heart": {
+      "col": 1,
+      "row": 3,
+      "x": 16,
+      "y": 48,
+      "w": 16,
+      "h": 16
+    },
+    "icon_coin": {
+      "col": 2,
+      "row": 3,
+      "x": 32,
+      "y": 48,
+      "w": 16,
+      "h": 16
+    },
+    "icon_sword": {
+      "col": 3,
+      "row": 3,
+      "x": 48,
+      "y": 48,
+      "w": 16,
+      "h": 16
+    },
+    "icon_shield": {
+      "col": 0,
+      "row": 4,
+      "x": 0,
+      "y": 64,
+      "w": 16,
+      "h": 16
+    },
+    "icon_key": {
+      "col": 1,
+      "row": 4,
+      "x": 16,
+      "y": 64,
+      "w": 16,
+      "h": 16
+    },
+    "icon_potion": {
+      "col": 2,
+      "row": 4,
+      "x": 32,
+      "y": 64,
+      "w": 16,
+      "h": 16
+    },
+    "icon_star": {
+      "col": 3,
+      "row": 4,
+      "x": 48,
+      "y": 64,
+      "w": 16,
+      "h": 16
+    },
+    "icon_chest": {
+      "col": 0,
+      "row": 5,
+      "x": 0,
+      "y": 80,
+      "w": 16,
+      "h": 16
+    },
+    "icon_gem": {
+      "col": 1,
+      "row": 5,
+      "x": 16,
+      "y": 80,
+      "w": 16,
+      "h": 16
+    },
+    "icon_map": {
+      "col": 2,
+      "row": 5,
+      "x": 32,
+      "y": 80,
+      "w": 16,
+      "h": 16
+    },
+    "icon_crown": {
+      "col": 3,
+      "row": 5,
+      "x": 48,
+      "y": 80,
+      "w": 16,
+      "h": 16
+    }
+  },
+  "nine_slice": {
+    "border": 2,
+    "corners": [
+      "panel_corner_tl",
+      "panel_corner_tr",
+      "panel_corner_bl",
+      "panel_corner_br"
+    ],
+    "edges_h": [
+      "panel_edge_top",
+      "panel_edge_bottom"
+    ],
+    "edges_v": [
+      "panel_edge_left",
+      "panel_edge_right"
+    ],
+    "center": [
+      "panel_center"
+    ]
+  },
+  "button_states": [
+    "button_normal",
+    "button_hover",
+    "button_pressed"
+  ]
+}

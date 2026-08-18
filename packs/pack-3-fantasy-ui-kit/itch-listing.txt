@@ -1,0 +1,3 @@
+Fantasy UI Kit: buttons, panels and icons in crisp 16x16 pixel art, with 9-slice corner data included.
+Three button states, a full nine-slice panel set, and eleven game-ready icons in one indexed sheet.
+MIT licensed and generated procedurally - recolor or re-slice to fit your game.

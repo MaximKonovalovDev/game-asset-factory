@@ -1,0 +1,22 @@
+{
+  "product": "GD-L3 Game Asset Factory",
+  "pipeline_version": "1.0.0",
+  "pack_id": "pack-2-village-characters",
+  "title": "Village Characters",
+  "license": "MIT",
+  "generated_by": "procedural generators (seeded); no AI, no API calls, no network",
+  "seed": 1337,
+  "tile_size": 16,
+  "notes": [
+    "4 characters x 4 directions (down, left, right, up) x 4 walk frames = 64 frames.",
+    "characters.png rows: character blocks (4 direction rows each); cols: frames 0-3.",
+    "characters_index.json maps every character, direction and frame to its cell."
+  ],
+  "regenerate": "python -m pipeline packs --pack 2",
+  "contents": {
+    "itch-listing.txt": 312,
+    "preview.png": 2618,
+    "assets/characters.png": 3182,
+    "assets/characters_index.json": 10377
+  }
+}
