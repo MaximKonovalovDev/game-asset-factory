@@ -48,7 +48,8 @@ Measured 2026-09-09, in this checkout:
 - `tiles --theme cave --seed 5`: 8 tiles in `out/cave` (tiles.png + index + collision).
 - Pack contents: 14 forest tiles + 16x12 scene + collision map; 64 character
   frames; UI kit with 11 icons. Seeds recorded (pack-1: seed 42).
-- Rebuilds are byte-identical by design (SHA-256 match); no network code in repo.
+- Rebuilds are deterministic by design (same seed, same bytes); the repo
+  contains no API keys, no URLs, and no network code.
 
 ## Project structure
 
