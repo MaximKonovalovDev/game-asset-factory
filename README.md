@@ -1,4 +1,4 @@
-# GD-L3 Game Asset Factory
+# Game Asset Factory
 
 A small factory that produces **16x16 pixel-art asset packs** (tilesets,
 character sheets, UI kits) fully **procedurally** — every pixel is drawn by
@@ -110,3 +110,4 @@ so buyers can use them in commercial or free projects.
 - **No engine-specific exports** — no Tiled `.tsx`, Unity `.meta`,
   Godot `.tres`, or Aseprite files. Consumers get PNGs + JSON indexes.
 - Character variety is palette/hat-parameterized, not free-form.
+
