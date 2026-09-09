@@ -72,7 +72,3 @@ pack-3-fantasy-ui-kit/      # buttons, panels, frame, 11 icons
 
 MIT — see `LICENSE`. The three shipped packs are MIT too (see each manifest),
 so buyers can use them in commercial or free projects.
-
-## Author
-
-Maxim Konovalov — Haifa. Game assets + procedural pipelines.
